@@ -1,2 +1,2 @@
 # iot-raspberrypi
-Internet of Things and Raspberrypi
+Internet of Things and Raspberry Pi
